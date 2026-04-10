@@ -1,0 +1,28 @@
+title: Leyton CognitX — Open Source
+description: "AI & tech advisory open source tools for Laravel, TypeScript, Vue, and OData by Leyton CognitX"
+url: "https://cognitx-leyton.github.io"
+baseurl: ""
+
+theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+author: Leyton CognitX
+twitter:
+  username: LeytonCognitx
+social:
+  name: Leyton CognitX
+  links:
+    - https://x.com/LeytonCognitx
+    - https://www.linkedin.com/company/leytoncognitx
+    - https://github.com/cognitx-leyton
+
+# Sitemap
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
